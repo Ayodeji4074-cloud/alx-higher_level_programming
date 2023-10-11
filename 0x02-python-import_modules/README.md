@@ -1,1 +1,1 @@
-This project file about modules and the importation of python modules is created by Adeniyi Emmanuel
+This project entails the use of the import statement in python, created by Adeniyi Emmanuel
